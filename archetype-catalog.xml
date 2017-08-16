@@ -3,18 +3,18 @@
   xsi:schemaLocation="http://maven.apache.org/plugins/maven-archetype-plugin/archetype-catalog/1.0.0 http://maven.apache.org/xsd/archetype-catalog-1.0.0.xsd">
   <archetypes>
     <archetype>
-      <groupId>com.ogaclejapan</groupId>
+      <groupId>com.andrew-farrell</groupId>
       <artifactId>java-archetype-quickstart</artifactId>
       <version>1.0.0</version>
       <description>This archetype generates a stand alone application project in Java.</description>
-      <repository>http://ogaclejapan.github.com/maven-archetypes</repository>
+      <repository>http://andrew-farrell.github.com/maven-archetypes</repository>
     </archetype>
     <archetype>
-      <groupId>com.ogaclejapan</groupId>
+      <groupId>com.andrew-farrell</groupId>
       <artifactId>java-archetype-web</artifactId>
       <version>1.0.0</version>
       <description>This archetype generates a web application project in Java.</description>
-      <repository>http://ogaclejapan.github.com/maven-archetypes</repository>
+      <repository>http://andrew-farrell.github.com/maven-archetypes</repository>
     </archetype>
   </archetypes>
 </archetype-catalog>
